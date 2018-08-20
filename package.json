@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheTeejers/node-weather/issues"
   },
-  "homepage": "https://github.com/TheTeejers/node-weather#readme"
+  "homepage": "https://github.com/TheTeejers/node-weather#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
